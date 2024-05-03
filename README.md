@@ -38,3 +38,5 @@ Uma aplicação construida utilizando a api ExchangeRate para buscar os preços 
 | :---------- | :--------- | :------------------------------------------ |
 | `currency`      | `string` | **Obrigatório**. O nome da moeda para ter como base |
 
+
+![ONE Badge](https://res.cloudinary.com/dduiscoif/image/upload/v1714764727/ONE/Badge-Conversor_xjcowe.png)
